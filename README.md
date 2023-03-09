@@ -1,4 +1,4 @@
-# Gradient-Descrnt
+# Gradient-Descent
 ***
 * This repo contain different types of Gradient Descent (Batch, Stochastics, Mini-batch) <br>
 * In this notebook, I made my own function implementation for different types of gradient descent <br> 
